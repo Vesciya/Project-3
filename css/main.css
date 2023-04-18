@@ -1,1 +1,17 @@
 /* Place CSS styles here */
+
+body {
+    background: linear-gradient(rgb(201, 94, 220) rgb(89, 132, 218));
+}
+
+.header {
+    display: flex;
+}
+
+.logo {
+    border: 2px red;
+}
+
+.navi-bar {
+    text-transform: uppercase;
+}
