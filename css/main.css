@@ -161,6 +161,9 @@ nav ul li a {
   to {opacity: 1}
 }
 
+.socials ul {
+    padding-left: 0px;
+}
 
 /*about page*/
 
