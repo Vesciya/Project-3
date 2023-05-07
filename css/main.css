@@ -176,9 +176,13 @@ nav ul li a {
     height: auto;
 }
 
-.bottom-half {
-    display: flex;
-    justify-content: space-between;
+
+  
+@media (min-width: 820px) {
+    .bottom-half {
+        display: flex;
+        justify-content: space-between;
+    }
 }
 
 .about {
